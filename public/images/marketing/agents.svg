@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1408" height="768" viewBox="0 0 1408 768" role="img" aria-label="Agent command center">
+  <defs><radialGradient id="agents-grad" cx="30%" cy="20%" r="75%"><stop offset="0" stop-color="#fb76fa" stop-opacity=".76"/><stop offset=".48" stop-color="#533afd" stop-opacity=".56"/><stop offset="1" stop-color="#e5edf5" stop-opacity=".6"/></radialGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".10"/></filter></defs>
+  <rect width="1408" height="768" fill="#ffffff"/>
+  <path d="M0 620 C240 520 438 704 704 596 C962 492 1150 560 1408 450 L1408 768 L0 768Z" fill="url(#agents-grad)" opacity=".32"/>
+  <g opacity=".45" stroke="#e5edf5" stroke-width="1"><path d="M80 0 V768"/><path d="M160 0 V768"/><path d="M240 0 V768"/><path d="M320 0 V768"/><path d="M400 0 V768"/><path d="M480 0 V768"/><path d="M560 0 V768"/><path d="M640 0 V768"/><path d="M720 0 V768"/><path d="M800 0 V768"/><path d="M880 0 V768"/><path d="M960 0 V768"/><path d="M1040 0 V768"/><path d="M1120 0 V768"/><path d="M1200 0 V768"/><path d="M1280 0 V768"/><path d="M1360 0 V768"/><path d="M0 80 H1408"/><path d="M0 152 H1408"/><path d="M0 224 H1408"/><path d="M0 296 H1408"/><path d="M0 368 H1408"/><path d="M0 440 H1408"/><path d="M0 512 H1408"/><path d="M0 584 H1408"/><path d="M0 656 H1408"/><path d="M0 728 H1408"/></g>
+  <g filter="url(#s)">
+    <rect x="124" y="204" width="520" height="286" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <rect x="154" y="234" width="160" height="10" rx="5" fill="#061b31" opacity=".75"/>
+      <rect x="154" y="264" width="412" height="42" rx="6" fill="#ffffff" stroke="#e5edf5"/>
+      <rect x="178" y="281" width="188" height="8" rx="4" fill="#50617a" opacity=".55"/>
+      <rect x="154" y="322" width="412" height="42" rx="6" fill="#ffffff" stroke="#e5edf5"/>
+      <rect x="178" y="339" width="238" height="8" rx="4" fill="#50617a" opacity=".48"/>
+      <rect x="154" y="380" width="190" height="76" rx="6" fill="url(#agents-grad)" opacity=".95"/>
+      <rect x="366" y="380" width="200" height="76" rx="6" fill="#ffffff" stroke="#e5edf5"/>
+      <path d="M388 430 C420 398, 448 446, 486 410 S532 390, 546 414" fill="none" stroke="#533afd" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+    <rect x="724" y="174" width="520" height="452" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+    <rect x="724" y="174" width="520" height="48" rx="6" fill="#ffffff" stroke="#e5edf5"/>
+    <circle cx="754" cy="198" r="5" fill="#e5edf5"/><circle cx="774" cy="198" r="5" fill="#e5edf5"/><circle cx="794" cy="198" r="5" fill="#e5edf5"/>
+    <text x="1198" y="203" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#50617a">STRIPE</text>
+    <g>
+      <rect x="760" y="238" width="438" height="54" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="790" cy="265" r="17" fill="#f8fafd" stroke="#e5edf5"/>
+      <text x="790" y="269" text-anchor="middle" font-family="monospace" font-size="11" fill="#061b31">01</text>
+      <rect x="826" y="255" width="120" height="8" rx="4" fill="#061b31" opacity="0.72"/>
+      <text x="826" y="277" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">Lead capture</text>
+      <circle cx="1165" cy="265" r="5" fill="#533afd"/>
+    </g><g>
+      <rect x="760" y="312" width="438" height="54" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="790" cy="339" r="17" fill="#f8fafd" stroke="#e5edf5"/>
+      <text x="790" y="343" text-anchor="middle" font-family="monospace" font-size="11" fill="#061b31">02</text>
+      <rect x="826" y="329" width="142" height="8" rx="4" fill="#50617a" opacity="0.45"/>
+      <text x="826" y="351" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">Intent score</text>
+      <circle cx="1165" cy="339" r="5" fill="#ff6118"/>
+    </g><g>
+      <rect x="760" y="386" width="438" height="54" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="790" cy="413" r="17" fill="#f8fafd" stroke="#e5edf5"/>
+      <text x="790" y="417" text-anchor="middle" font-family="monospace" font-size="11" fill="#061b31">03</text>
+      <rect x="826" y="403" width="164" height="8" rx="4" fill="#061b31" opacity="0.72"/>
+      <text x="826" y="425" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">CRM update</text>
+      <circle cx="1165" cy="413" r="5" fill="#533afd"/>
+    </g><g>
+      <rect x="760" y="460" width="438" height="54" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="790" cy="487" r="17" fill="#f8fafd" stroke="#e5edf5"/>
+      <text x="790" y="491" text-anchor="middle" font-family="monospace" font-size="11" fill="#061b31">04</text>
+      <rect x="826" y="477" width="186" height="8" rx="4" fill="#50617a" opacity="0.45"/>
+      <text x="826" y="499" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">Approval gate</text>
+      <circle cx="1165" cy="487" r="5" fill="#ff6118"/>
+    </g><g>
+      <rect x="760" y="534" width="438" height="54" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="790" cy="561" r="17" fill="#f8fafd" stroke="#e5edf5"/>
+      <text x="790" y="565" text-anchor="middle" font-family="monospace" font-size="11" fill="#061b31">05</text>
+      <rect x="826" y="551" width="208" height="8" rx="4" fill="#061b31" opacity="0.72"/>
+      <text x="826" y="573" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">Follow up</text>
+      <circle cx="1165" cy="561" r="5" fill="#533afd"/>
+    </g>
+  </g>
+  <text x="124" y="142" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" font-weight="700" fill="#50617a">OPERATING VIEW</text>
+  <text x="124" y="180" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#061b31">Agent command center</text>
+  <g>
+      <rect x="132" y="510" width="150" height="96" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="156" cy="534" r="7" fill="#533afd"/>
+      <text x="152" y="568" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">Lead capture</text>
+      <rect x="152" y="584" width="90" height="6" rx="3" fill="#50617a" opacity="0.35"/>
+    </g><g>
+      <rect x="306" y="510" width="150" height="96" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="330" cy="534" r="7" fill="#ff6118"/>
+      <text x="326" y="568" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">Intent score</text>
+      <rect x="326" y="584" width="90" height="6" rx="3" fill="#50617a" opacity="0.35"/>
+    </g><g>
+      <rect x="480" y="510" width="150" height="96" rx="6" fill="#f8fafd" stroke="#e5edf5"/>
+      <circle cx="504" cy="534" r="7" fill="#50617a"/>
+      <text x="500" y="568" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#061b31">CRM update</text>
+      <rect x="500" y="584" width="90" height="6" rx="3" fill="#50617a" opacity="0.35"/>
+    </g>
+</svg>
